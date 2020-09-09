@@ -8,11 +8,14 @@
     text-align: center;
 }
 
-nav {
-    text-align: center;
-    color: white;
-}
 
+
+.icon {
+display:flex;
+justify-content: center;
+
+
+}
 nav a {
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
@@ -25,3 +28,69 @@ body {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+
+
+
+.footer {
+    display:flex;
+    text-align:center;
+    padding: 2%;
+
+}
+
+.facebook a {
+   padding: 10px;
+}
+
+.google a {
+  padding: 10px;
+}
+
+.pinterest a {
+    padding: 10px;
+}
+
+.skype a {
+    padding: 10px;
+ }
+
+ .twitter a {
+    padding: 10px;
+ }
+
+
+ .youtube a {
+    padding: 10px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
